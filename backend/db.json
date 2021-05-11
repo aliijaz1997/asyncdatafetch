@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "lUM0m_87g",
+      "title": "JavaScript",
+      "author": "Ejaz Ahmed"
+    },
+    {
+      "id": "S3gOWcPt1",
+      "title": "Rust",
+      "author": "Hassam"
+    },
+    {
+      "id": "CF8aozwVB",
+      "title": "TypeScript",
+      "author": "Ejaz Ahmed"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
